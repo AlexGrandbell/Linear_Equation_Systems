@@ -1,8 +1,5 @@
 # ninja log v5
-607	713	1703247338358531079	Linear_Equation_Systems	ea13055870743265
-0	567	1702620881073858081	CMakeFiles/Linear_Equation_Systems.dir/Tool.cpp.o	9a69ef068b23ffa1
-6	607	1703247338250902922	CMakeFiles/Linear_Equation_Systems.dir/main.cpp.o	493d79de79f0df55
-0	56	1703247797802851488	build.ninja	e27f52f2733a4150
+585	686	1703247798492664233	Linear_Equation_Systems	ea13055870743265
+0	56	1704422857457543758	build.ninja	e27f52f2733a4150
 7	584	1703247798387963749	CMakeFiles/Linear_Equation_Systems.dir/Tool.cpp.o	9a69ef068b23ffa1
 7	584	1703247798389747420	CMakeFiles/Linear_Equation_Systems.dir/main.cpp.o	493d79de79f0df55
-585	686	1703247798492664233	Linear_Equation_Systems	ea13055870743265
