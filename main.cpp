@@ -1,6 +1,6 @@
 #include "Tool.h"
 
-//范数
+//2-范数
 double norm(double* k,double num){
     double sum = 0.0;
     for (int i = 0; i < num; ++i) {
